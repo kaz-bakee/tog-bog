@@ -1,5 +1,1 @@
-Let's test...
-
-hello
-
-again
+This is a complete new feature!
