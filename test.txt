@@ -1,3 +1,5 @@
 This is a complete new feature!
 
 Another line added
+
+final line added
